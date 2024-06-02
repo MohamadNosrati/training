@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iphone",
+      "description": "  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum debitis, magnam qui numquam earum illum nihil! Rem nostrum iste vel. Eos maxime architecto alias voluptates provident magnam culpa quo cupiditate.",
+      "image": "https://i.insider.com/5df10d81fd9db229ba736a77?width=700",
+      "publish": 1
+    },
+    {
+      "id": "f177",
+      "title": "carrrrr",
+      "description": "testestet",
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg",
+      "publish": "1"
+    },
+    {
+      "title": "gdfgeer",
+      "description": "fdfdghdghd",
+      "image": "https://m-cdn.phonearena.com/images/hub/312-wide-two_1200/Galaxy-S24-Ultra-release-date-price-features-and-news.jpg",
+      "publish": "0",
+      "id": "6dee"
+    }
+  ]
+}
